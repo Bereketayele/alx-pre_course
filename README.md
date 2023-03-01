@@ -1,1 +1,1 @@
-my first read me
+this is directory cretion
