@@ -1,1 +1,1 @@
-this is directory cretion
+readme
